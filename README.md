@@ -1,16 +1,16 @@
-## Hi there 👋
+# Wil Trahan
 
-<!--
-**wiltrahan/wiltrahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Wil Trahan — Software Engineer
 
-Here are some ideas to get you started:
+Full-stack Software Engineer based in Rhode Island.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineer | Kotlin | Spring Boot | Java | Angular | Rhode Island
+
+## Tech Stack
+- Backend: Kotlin, Java, Spring Boot
+- Frontend: Angular, React
+- Other: Python
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/wiltrahan/
+- GitHub: https://github.com/wiltrahan
