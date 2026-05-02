@@ -12,5 +12,5 @@ Software Engineer | Kotlin | Spring Boot | Java | Angular | Rhode Island
 - Other: Python
 
 ## Links
-- LinkedIn: https://www.linkedin.com/in/wiltrahan/
+- LinkedIn: https://www.linkedin.com/in/willtrahan/
 - GitHub: https://github.com/wiltrahan
